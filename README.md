@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nityam Tripathi... </h2>
+<h2 align="left">Hi 👋! My name is Nityam Tripathi </h2>
 
 ###
 
