@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Nityam Tripathi </h2>
+<h2 align="left">Hi 👋! My name is Nityam Tripathi... </h2>
+I am a Web3 Full Stack and Blokchain Developer
 
 ###
 
