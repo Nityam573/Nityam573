@@ -7,7 +7,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: **Name:** Nityam Tripathi <img src="" width="400" align="right"/>
+- :credit_card: **Name:** Nityam Tripathi <img src="https://i.chzbgr.com/full/7916902656/hF2264909/hey-there-i-just-wanted-to-say-hi" width="400" align="right"/>
 - :books: **Major:** Specializing in Web3 & Blockchain, Full-Stack Development, and DevOps
 - :earth_asia: **Location:** Currently residing in India
 - :sunglasses: **Favorite Quote:** "The best way to predict the future is to invent it." - Alan Kay
