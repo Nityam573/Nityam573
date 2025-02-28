@@ -7,7 +7,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: **Name:** Nityam Tripathi <img src="https://i.chzbgr.com/full/7916902656/hF2264909/hey-there-i-just-wanted-to-say-hi" width="400" align="right"/>
+- :credit_card: **Name:** Nityam Tripathi <img src="https://camo.githubusercontent.com/3bbc3e5a699054ed9d5164eb5b80bd6aed17eb481a96306a9f20f7d84965a476/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578626d4e6f4d6a6b3063544278646d3968616a6b314f475274636d646b656e5634615770684e5863345a586c335a33467361484a6e61435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f524f44694e7731714b48637437344c4143652f67697068792e676966" width="400" align="right"/>
 - :books: **Major:** Specializing in Web3 & Blockchain, Full-Stack Development, and DevOps
 - :earth_asia: **Location:** Currently residing in India
 - :sunglasses: **Favorite Quote:** "The best way to predict the future is to invent it." - Alan Kay
